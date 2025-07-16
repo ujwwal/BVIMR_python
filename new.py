@@ -2,3 +2,4 @@
 print("version control on laptop2")
 print("version control laptop1")
 #test
+print("commit from laptop2") #gonna do a pull request on laptop1
