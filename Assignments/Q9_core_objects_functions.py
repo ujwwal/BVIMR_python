@@ -8,4 +8,4 @@ print("Length of 'hello':", len("hello"))
 print("Sum of [1,2,3]:", sum([1,2,3]))
 print("Absolute of -10:", abs(-10))
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

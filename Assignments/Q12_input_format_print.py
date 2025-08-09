@@ -12,4 +12,5 @@ roll_no = "0231bca051"
 age = 20
 
 print(f"Name: {name}, Class: {class_}, Roll No: {roll_no}, Age: {age}")
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
