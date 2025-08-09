@@ -1,10 +1,10 @@
 # Q12. Input name, class, roll no, age and print using formatted print method
 
-# Uncomment for actual input
-# name = input("Enter name: ")
-# class_ = input("Enter class: ")
-# roll_no = input("Enter roll no: ")
-# age = input("Enter age: ")
+
+name = input("Enter name: ")
+class_ = input("Enter class: ")
+roll_no = input("Enter roll no: ")
+age = input("Enter age: ")
 
 name = "Ujjwal"
 class_ = "BCA 5th Sem"

@@ -19,10 +19,4 @@ b = a - b
 a = a - b
 print("After swap using arithmetic: a =", a, ", b =", b)
 
-# Method 4: Using XOR
-a = a ^ b
-b = a ^ b
-a = a ^ b
-print("After swap using XOR: a =", a, ", b =", b)
-
 print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
