@@ -21,4 +21,4 @@ armstrongs = [i for i in range(start, end+1) if is_armstrong(i)]
 print("Primes:", primes)
 print("Perfect numbers:", perfects)
 print("Armstrong numbers:", armstrongs)
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

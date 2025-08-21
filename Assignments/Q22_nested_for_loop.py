@@ -5,5 +5,4 @@ for i in range(1, 4):
     for j in range(1, 4):
         print(f"{i} x {j} = {i*j}", end="\t")
     print()  # Newline after each row
-
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

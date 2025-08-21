@@ -13,4 +13,4 @@ h = {'a': 1, 'b': 2} # dict
 print(f"Integer: {a}, Float: {b}, String: {c}, Boolean: {d}")
 print(f"List: {e}, Tuple: {f}, Set: {g}, Dict: {h}")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

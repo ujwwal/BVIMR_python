@@ -9,4 +9,4 @@ if is_leap(year):
 else:
     print(f"{year} is not a leap year.")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

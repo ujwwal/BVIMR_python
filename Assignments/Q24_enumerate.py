@@ -5,4 +5,4 @@ fruits = ['apple', 'banana', 'cherry']
 for index, fruit in enumerate(fruits):
     print(f"Index: {index}, Fruit: {fruit}")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
