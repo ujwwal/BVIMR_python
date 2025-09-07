@@ -7,3 +7,5 @@ if __name__ == "__main__":
         print("Invalid integer.")
     else:
         print("Square is:", x * x)
+    finally:
+        print("Execution completed.")
