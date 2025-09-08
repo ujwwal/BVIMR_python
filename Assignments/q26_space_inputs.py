@@ -13,4 +13,6 @@ def read_variable_ints_space_separated():
 
 if __name__ == "__main__":
     read_two_ints_space_separated()
-    read_variable_ints_space_separated()
+    read_variable_ints_space_separated()\
+
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
