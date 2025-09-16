@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E8BFD,100:7C3AED&height=120&section=header&text=BVIMR%20Python&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="BVIMR Python">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:2E8BFD,100:7C3AED&height=120&section=header&text=BVIMR%20Python&fontColor=ffffff&fontSize=42&animation=fadeIn" alt="Python BVIMR">
 </p>
 
 <p align="center">
