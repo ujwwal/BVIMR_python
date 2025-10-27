@@ -12,3 +12,5 @@ if __name__ == "__main__":
     print("Removed last:", popped, "Now:", nums)
     nums[0] = 99
     print("After update:", nums)
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

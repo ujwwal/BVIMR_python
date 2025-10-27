@@ -15,3 +15,5 @@ if __name__ == "__main__":
     b = [10, 20, 30]
     sums = list(map(lambda t: t[0] + t[1], zip(a, b)))
     print("Element-wise sums of a and b:", sums)
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

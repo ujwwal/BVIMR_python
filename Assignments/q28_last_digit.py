@@ -7,3 +7,5 @@ def last_digit(n: int) -> int:
 if __name__ == "__main__":
     n = int(input("Enter an integer: "))
     print("Last digit:", last_digit(n))
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

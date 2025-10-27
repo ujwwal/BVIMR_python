@@ -6,3 +6,5 @@ if __name__ == "__main__":
         print(i, end=" ")
         i += 1
     print()
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

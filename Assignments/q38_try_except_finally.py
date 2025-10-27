@@ -9,3 +9,5 @@ if __name__ == "__main__":
         print("Square is:", x * x)
     finally:
         print("Execution completed.")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

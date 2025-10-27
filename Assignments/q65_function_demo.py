@@ -4,3 +4,5 @@ def greet(name: str):
 if __name__ == "__main__":
     greet("Alice")
     greet("Bob")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

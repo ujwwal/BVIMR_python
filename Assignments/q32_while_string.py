@@ -6,3 +6,5 @@ if __name__ == "__main__":
     while i < len(s):
         print(f"{i}: {s[i]}")
         i += 1
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

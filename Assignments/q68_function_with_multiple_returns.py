@@ -7,3 +7,5 @@ if __name__ == "__main__":
     a, b = 17, 5
     q, r = divide_with_remainder(a, b)
     print(f"{a} // {b} = {q}, remainder = {r}")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

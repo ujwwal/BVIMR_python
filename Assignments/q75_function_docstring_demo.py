@@ -1,22 +1,30 @@
-def distance(x1: float, y1: float, x2: float, y2: float) -> float:
+def add(a, b):
     """
-    Compute the Euclidean distance between two points (x1, y1) and (x2, y2).
+    Add two values and return the result.
 
-    Parameters:
-    - x1, y1: Coordinates of the first point.
-    - x2, y2: Coordinates of the second point.
+    Uses Python's + operator, so it works for numbers, strings, lists, etc.
+
+    Args:
+        a: First value.
+        b: Second value.
 
     Returns:
-    - float: The distance between the two points.
+        The sum/concatenation of a and b.
 
-    Example:
-    >>> distance(0, 0, 3, 4)
-    5.0
+    Examples:
+        >>> add(2, 3)
+        5
+        >>> add(1.5, 2.5)
+        4.0
+        >>> add("py", "thon")
+        'python'
+        >>> add([1], [2, 3])
+        [1, 2, 3]
     """
-    dx = x2 - x1
-    dy = y2 - y1
-    return (dx * dx + dy * dy) ** 0.5
+    return a + b
+
 
 if __name__ == "__main__":
-    print(distance.__doc__)
-    print("Distance (0,0) to (3,4):", distance(0, 0, 3, 4))
+    print(add(2, 3))
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

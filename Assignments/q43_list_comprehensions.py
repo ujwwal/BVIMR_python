@@ -7,3 +7,5 @@ if __name__ == "__main__":
     print("Squares:", squares)
     print("Evens:", evens)
     print("Pairs:", pairs)
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

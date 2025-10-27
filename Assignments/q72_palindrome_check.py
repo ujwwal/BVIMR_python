@@ -14,3 +14,5 @@ if __name__ == "__main__":
         i -= 1
 
     print("Palindrome?", "Yes" if cleaned == rev else "No")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

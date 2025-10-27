@@ -28,3 +28,5 @@ if __name__ == "__main__":
     print("A - B:", *sub_res, sep="\n  ")
     print("A * B:", *mul_res, sep="\n  ")
     print("Transpose(A):", *trans_A, sep="\n  ")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

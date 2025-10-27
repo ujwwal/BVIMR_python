@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print("Removed city:", removed, "Remaining:", d)
     del d["name"]
     print("After deleting name:", d)
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

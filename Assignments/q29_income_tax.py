@@ -25,3 +25,5 @@ if __name__ == "__main__":
     tax = calculate_tax(income)
     print(f"Income: Rs. {income:,.2f}")
     print(f"Tax: Rs. {tax:,.2f}")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

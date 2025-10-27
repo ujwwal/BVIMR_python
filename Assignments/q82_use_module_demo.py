@@ -14,3 +14,5 @@ if __name__ == "__main__":
         print("factorial(6):", math.factorial(6))
         print("gcd(42, 56):", math.gcd(42, 56))
         print("ceil(3.14):", math.ceil(3.14))
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

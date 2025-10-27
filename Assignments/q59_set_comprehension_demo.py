@@ -12,3 +12,5 @@ if __name__ == "__main__":
 
     pairs_sum_even = {(a, b) for a in range(4) for b in range(4) if (a + b) % 2 == 0}
     print("Pairs with even sum:", pairs_sum_even)
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

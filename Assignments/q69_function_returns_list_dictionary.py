@@ -11,3 +11,5 @@ if __name__ == "__main__":
     print("Squares up to 10:", list_of_squares(10))
     sample = "abracadabra"
     print(f"Character frequency for '{sample}':", char_frequency(sample))
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

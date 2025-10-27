@@ -10,3 +10,5 @@ if __name__ == "__main__":
     print("nums[1::2]:", nums[1::2])
     print("nums[-3:]:", nums[-3:])
     print("nums[::-1] (reversed):", nums[::-1])
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

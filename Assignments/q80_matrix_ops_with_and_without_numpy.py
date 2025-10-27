@@ -37,3 +37,5 @@ if __name__ == "__main__":
         print("Transpose(A):\n", a.T)
     except ImportError:
         print("\nNumPy not installed. Skipping NumPy demo.")
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

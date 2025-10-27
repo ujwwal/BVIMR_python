@@ -10,3 +10,5 @@ if __name__ == "__main__":
     for v in simple_generator(5):
         print(v, end=" ")
     print()
+
+print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
