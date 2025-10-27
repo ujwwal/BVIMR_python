@@ -14,4 +14,4 @@ Var3 = 15
 print("Valid identifiers: my_var, _var2, Var3")
 print("Invalid identifiers: 2var, my-var, class (will raise SyntaxError if used)")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

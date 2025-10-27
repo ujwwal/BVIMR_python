@@ -13,4 +13,4 @@ if __name__ == "__main__":
     # Change the number to print more/less rows
     print_pattern(5)
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

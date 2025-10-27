@@ -17,4 +17,4 @@ if __name__ == "__main__":
     print("Docstring:", square.__doc__)
     print("Result:", square(7))
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

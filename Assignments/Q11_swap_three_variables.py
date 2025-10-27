@@ -20,5 +20,3 @@ z = x - (y + z)
 x = x - (y + z)
 print("After swap using arithmetic: x =", x, ", y =", y, ", z =", z)
 print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
-
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

@@ -6,4 +6,4 @@ if __name__ == "__main__":
     print("t[1][1]:", t[1][1])
     print("t[2][1][0]:", t[2][1][0])
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

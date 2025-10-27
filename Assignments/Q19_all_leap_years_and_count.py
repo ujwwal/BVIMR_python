@@ -7,5 +7,3 @@ leap_years = [y for y in range(1, 2026) if is_leap(y)]
 print("Leap years from 1 to 2025:", leap_years)
 print("Total count:", len(leap_years))
 print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
-
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

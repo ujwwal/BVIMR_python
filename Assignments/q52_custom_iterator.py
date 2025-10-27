@@ -20,4 +20,4 @@ if __name__ == "__main__":
         print(n, end=" ")
     print()
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

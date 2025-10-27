@@ -28,4 +28,4 @@ if __name__ == "__main__":
             season = "Autumn"
         print(f"Month: {calendar.month_name[month_num]} -> Season: {season}")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

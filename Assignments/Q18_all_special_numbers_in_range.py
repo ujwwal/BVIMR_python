@@ -22,5 +22,3 @@ print("Primes:", primes)
 print("Perfect numbers:", perfects)
 print("Armstrong numbers:", armstrongs)
 print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
-
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")

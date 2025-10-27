@@ -51,4 +51,4 @@ if __name__ == "__main__":
     print("mean([1,2,3,4,5]):", mean([1, 2, 3, 4, 5]))
     print(greet("Alice"))
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

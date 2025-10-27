@@ -15,4 +15,4 @@ if __name__ == "__main__":
         print("gcd(42, 56):", math.gcd(42, 56))
         print("ceil(3.14):", math.ceil(3.14))
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

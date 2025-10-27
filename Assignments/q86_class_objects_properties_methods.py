@@ -20,7 +20,7 @@ class Person:
 
 if __name__ == "__main__":
     alice = Person("Alice", 30)
-    bob = Person("Bob", 28)``
+    bob = Person("Bob", 28)
 
     print(alice.greet())
     print(bob.greet())
@@ -28,4 +28,4 @@ if __name__ == "__main__":
     bob.have_birthday()
     print(alice.compare_age(bob))
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

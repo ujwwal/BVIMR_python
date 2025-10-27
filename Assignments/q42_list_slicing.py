@@ -11,4 +11,4 @@ if __name__ == "__main__":
     print("nums[-3:]:", nums[-3:])
     print("nums[::-1] (reversed):", nums[::-1])
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")

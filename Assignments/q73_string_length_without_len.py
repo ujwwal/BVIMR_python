@@ -5,4 +5,4 @@ if __name__ == "__main__":
         count += 1
     print(f"Length (manual): {count}")
 
-print("code written by ujjwal gupta - 0231bca051 of bca 5th sem bvimr")
+print("This program is written by Ujjwal Gupta - 0231BCA051 of BCA 5th sem, BVIMR")
