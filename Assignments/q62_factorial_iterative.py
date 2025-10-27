@@ -1,0 +1,16 @@
+def factorial_iter(n: int) -> int:
+    if not isinstance(n, int):
+        raise TypeError("n must be an integer")
+    if n < 0:
+        raise ValueError("n must be non-negative")
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+
+if __name__ == "__main__":
+    try:
+        n = int(input("Enter a non-negative integer: "))
+        print(f"{n}! = {factorial_iter(n)}")
+    except Exception as e:
+        print("Error:", e)

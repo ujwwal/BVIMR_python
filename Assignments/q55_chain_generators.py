@@ -15,7 +15,6 @@ def chained(n: int):
     yield from evens(n)
     yield from odds(n)
 
-
 if __name__ == "__main__":
     n = 10
     print("Chained with yield from:", *chained(n))
